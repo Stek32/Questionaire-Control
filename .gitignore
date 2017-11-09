@@ -154,3 +154,16 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+Generator.v12.suo
+Generator/bin/Generator.dll
+Generator/bin/Generator.dll.config
+Generator/bin/Generator.pdb
+Generator/Generator.csproj.user
+Generator/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Generator/obj/Debug/Generator.csproj.FileListAbsolute.txt
+Generator/obj/Debug/Generator.csprojResolveAssemblyReference.cache
+Generator/obj/Debug/Generator.dll
+Generator/obj/Debug/Generator.pdb
+Generator/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Generator/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Generator/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
